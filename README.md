@@ -1,9 +1,9 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nectaresdodao.pt%2F%3Fk%3Dcreate-an-animated-gif-for-you-by-anadidesign-fiverr-vv-Qvo7eQum&psig=AOvVaw3ih9cXr2BFj8YetzxflgDv&ust=1716656012821000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjS76vgpoYDFQAAAAAdAAAAABAt)]
+<img src="https://camo.githubusercontent.com/632ac7cf05f27bc62e2d46a4bd4272abb3e55330b818325fc2025d436ed0060e/68747470733a2f2f7777772e6d79776562776f726c642e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f7765622d64657369676e2d6b6572616c612e676966" alt="MasterHead" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&amp;token=91c0c7b2-93c3-4029-b011-1a8703c5730d" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Mohammed Mahmoud</h1>
 <h3 align="center">A passionate Data Scientist ,and frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-mahmoud-elsayed-ahmed-mmes&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-mahmoud-elsayed-ahmed-mmes" /> </p>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"></img>
+
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://mini-portfolio-mo.netlify.app/](https://mini-portfolio-mo.netlify.app/)
@@ -11,6 +11,8 @@
 - 📫 How to reach me **mohamedmahmoud2022.333@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yL3USx1l88R7X9S8Efc1S9ebKvddymIX/view?usp=sharing](https://drive.google.com/file/d/1yL3USx1l88R7X9S8Efc1S9ebKvddymIX/view?usp=sharing)
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-mahmoud-elsayed-ahmed-mmes&show_icons=true&locale=en&layout=compact" alt="mohammed-mahmoud-elsayed-ahmed-mmes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoud-elsayed-ahmed-mmes&show_icons=true&locale=en" alt="mohammed-mahmoud-elsayed-ahmed-mmes" /></p>
-
