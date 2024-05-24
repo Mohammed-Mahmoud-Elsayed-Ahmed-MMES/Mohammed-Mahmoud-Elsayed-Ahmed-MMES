@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-mahmoud-elsayed-ahmed-mmes&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-mahmoud-elsayed-ahmed-mmes" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"></img>
+
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://mini-portfolio-mo.netlify.app/](https://mini-portfolio-mo.netlify.app/)
@@ -12,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yL3USx1l88R7X9S8Efc1S9ebKvddymIX/view?usp=sharing](https://drive.google.com/file/d/1yL3USx1l88R7X9S8Efc1S9ebKvddymIX/view?usp=sharing)
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"></img>
+- ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
