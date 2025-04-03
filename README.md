@@ -1,10 +1,10 @@
-<img src="https://camo.githubusercontent.com/632ac7cf05f27bc62e2d46a4bd4272abb3e55330b818325fc2025d436ed0060e/68747470733a2f2f7777772e6d79776562776f726c642e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f7765622d64657369676e2d6b6572616c612e676966" alt="MasterHead" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&amp;token=91c0c7b2-93c3-4029-b011-1a8703c5730d" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://camo.githubusercontent.com/da8f09b86d94233af79db423443aed85531893132c2bb0ec95c96ae94cddb755/68747470733a2f2f7777772e6d79776562776f726c642e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f7765622d64657369676e2d6b6572616c612e676966" alt="MasterHead" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&amp;token=91c0c7b2-93c3-4029-b011-1a8703c5730d" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Mohammed Mahmoud</h1>
 <h3 align="center">A passionate Data Scientist ,and frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-mahmoud-elsayed-ahmed-mmes&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-mahmoud-elsayed-ahmed-mmes" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"></img>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"></img>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
@@ -12,14 +12,12 @@
 
 - 📫 How to reach me **mohamedmahmoud2022.333@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yL3USx1l88R7X9S8Efc1S9ebKvddymIX/view?usp=sharing](https://drive.google.com/file/d/1yL3USx1l88R7X9S8Efc1S9ebKvddymIX/view?usp=sharing)
-
 - ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed mahmoud" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamed mahmoud el-sayed ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed mahmoud el-sayed ahmed" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mahamedmahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed mahmoud el-sayed ahmed" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/super_moo_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="super_moo_s" height="30" width="40" /></a>
 <a href="https://discord.gg/Mohmed ~MMES~" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mohmed ~MMES~" height="30" width="40" /></a>
 </p>
